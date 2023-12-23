@@ -1,5 +1,5 @@
 # mental-models
-
+```
 [=] Mental stack frame
 [-] Mental sub stack frame
 [ ] Task
@@ -20,3 +20,4 @@
 ^^^ Prioritize tasks below
 <<< Category with tasks
 ~~~ Re-organize tasks below
+```
