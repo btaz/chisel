@@ -1,5 +1,6 @@
 # mental-models
 ```
+[*] Theme
 [=] Mental stack frame
 [-] Mental sub stack frame
 [ ] Task
