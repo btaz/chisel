@@ -1,8 +1,8 @@
 # mental-models
 ```
-[*] Theme or Goals
 [=] Header
 [-] Subheader
+[*] Status
 [ ] Task
 [o] Task in progress
 [|] Task blocked
