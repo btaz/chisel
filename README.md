@@ -1,4 +1,6 @@
 # mental-models
+
+## Stack Frames
 ```
 [=] Header
 [-] Subheader
@@ -21,4 +23,11 @@
 ^^^ Prioritize tasks below
 <<< Category with tasks
 ~~~ Re-organize tasks below
+```
+
+## Items
+```
+[ ] Assign this task to => Bob
+[ ] Notify when done => Bob
+[ ] Get feedback from <= Bob
 ```
