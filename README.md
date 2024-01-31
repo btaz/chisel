@@ -1,8 +1,8 @@
 # mental-models
 ```
 [*] Theme or Goals
-[=] Mental stack frame
-[-] Mental sub stack frame
+[=] Header
+[-] Subheader
 [ ] Task
 [o] Task in progress
 [|] Task blocked
