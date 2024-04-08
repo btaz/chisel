@@ -4,7 +4,7 @@
 ```
 [=] Header
 [-] Subheader
-[*] Status
+[*] Goal
 [ ] Task
 [o] Task in progress
 [|] Task blocked
