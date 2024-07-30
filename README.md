@@ -20,9 +20,9 @@
 *** Goals and priorities
 ### Prioritized list of tasks
 ... Tasks that need to be tracked
-^^^ Prioritize tasks below
+^^^ Re-organize the tasks below
+~~~ Re-evaluate the tasks below
 <<< Category with tasks
-~~~ Re-organize tasks below
 ```
 
 ## Items
