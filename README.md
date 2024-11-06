@@ -10,6 +10,7 @@
 [|] Task blocked
 [+] Expand / elaborate
 [i] Information
+[!] Requires attention
 [?] Question or unknown
 [>] Notify
 [<] Need information from
