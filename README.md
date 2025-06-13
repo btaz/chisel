@@ -7,6 +7,8 @@
 [*] Goal
 [ ] Task
 [o] Task in progress
+[√] Task is done
+[x] Task is done
 [|] Task blocked
 [+] Expand / elaborate
 [i] Information
